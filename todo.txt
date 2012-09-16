@@ -1,0 +1,7 @@
+Major
+===
+
+* redis persistence
+* reording on out of order UDP packets
+* channel cleanup
+* other logplex api functions
